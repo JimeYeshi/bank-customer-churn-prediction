@@ -124,10 +124,6 @@ python src/predict.py
 ```bash
 streamlit run app/streamlit_app.py
 ```
-
-## Resume-Friendly Project Description
-Built an end-to-end banking customer churn prediction project using Python, pandas, scikit-learn, and Streamlit. Developed a complete machine learning pipeline including data cleaning, exploratory analysis, preprocessing, model comparison, performance evaluation, churn risk prediction, and dashboard deployment. The project identifies customers vulnerable to attrition and supports targeted retention strategies using interpretable model outputs.
-
 ## Tools Used
 - Python
 - pandas
