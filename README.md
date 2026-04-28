@@ -47,6 +47,9 @@ Typical columns include:
    - Confusion matrix
    - ROC-AUC score
    - Feature importance chart where supported
+  
+     <img width="1920" height="1440" alt="confusion_matrix" src="https://github.com/user-attachments/assets/8ab2a149-f64c-4998-a640-a8af90f17083" />
+
 
 7. **Deployment-Ready Prediction**
    - Save trained model as `models/best_model.pkl`
